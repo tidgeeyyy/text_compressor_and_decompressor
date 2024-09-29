@@ -1,2 +1,2 @@
-# text_compressor_and_decompressor
+# Text Compressor and Decompressor
  
